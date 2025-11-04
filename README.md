@@ -1,5 +1,12 @@
 # News Reader App
 
+DEMO
+
+
+https://github.com/user-attachments/assets/4c071d7f-8cc8-4b69-aa13-1e57ac968491
+
+
+
 This is a minimal Flutter News Reader that fetches top headlines from NewsAPI.org and displays them in a list. It demonstrates usage of `http`, `FutureBuilder`, loading indicators, and error handling.
 
 Setup
